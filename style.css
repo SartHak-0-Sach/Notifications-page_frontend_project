@@ -193,6 +193,21 @@ margin-left: 2%;
 display: none;
 }
 
+/* Footer */
+.attribution {
+    position: absolute;
+    bottom: .8rem;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 11px;
+    text-align: center;
+    color: white;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
 /* for mobile */
 @media only screen and (max-width: 390px) {
 .notifications-container {
