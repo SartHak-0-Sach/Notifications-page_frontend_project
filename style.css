@@ -1,13 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
 
-
 :root {
 --body-bg: #18191A;
 --notifications-card-bg: #242526;
 --notification-bg: #3A3B3C;
 --txt-color: #B4C3C8;
 --txt-color2: #E4E6EB;
---notification-red:   #FF4500;
+--notification-red: #FF4500;
 --hover-states: #5C68B0;
 --bold-txt: #fff;
 --comment-hover: #4C5C67;
@@ -21,7 +20,6 @@ margin: 0;
 }
 
 body {
-width: 100vw;
 min-height: 100vh;
 background-color: var(--body-bg);
 font-family: "Plus Jakarta Sans";
@@ -195,7 +193,6 @@ display: none;
 
 /* Footer */
 .attribution {
-    position: absolute;
     bottom: .8rem;
     left: 50%;
     transform: translateX(-50%);
