@@ -193,9 +193,6 @@ display: none;
 
 /* Footer */
 .attribution {
-    bottom: .8rem;
-    left: 50%;
-    transform: translateX(-50%);
     font-size: 11px;
     text-align: center;
     color: white;
