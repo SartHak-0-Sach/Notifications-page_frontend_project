@@ -138,7 +138,6 @@ margin: auto;
 width: 80%;
 padding: 1.2%;
 margin-top: -2.8%;
-/* margin-top: -3.8%; */
 margin-left: 10%;
 }
 .pvt-msg {
@@ -160,8 +159,8 @@ width: .7rem;
 height: .7rem;
 border-radius: 50%;
 position: absolute;
-top: 35%;
-right: 8%;
+top: 0%;
+right: 0%;
 margin-left: 2%;
 } 
 
@@ -171,8 +170,8 @@ width: .7rem;
 height: .7rem;
 border-radius: 50%;
 position: absolute;
-top: 35%;
-right: 57%;
+top: 0%;
+right: 0%;
 margin-left: 2%;
 }
 
@@ -182,9 +181,9 @@ width: .7rem;
 height: .7rem;
 border-radius: 50%;
 position: absolute;
-top: 35%;
-right: 28%;
-margin-left: 2%;
+top: 0%;
+right: 0%;
+margin-left: 0%;
 }
 
 .hidden {
